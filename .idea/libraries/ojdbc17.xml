@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ojdbc17">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Material Java/Aula_03-integracaoBD_B/integracaoBD/ojdbc17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
